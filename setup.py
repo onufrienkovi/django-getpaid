@@ -1,3 +1,3 @@
 import setuptools
 
-setuptools.setup(version="2.0.1", packages=["getpaid"])
+setuptools.setup(name="django-getpaid", version="2.2.2", packages=["getpaid"])
